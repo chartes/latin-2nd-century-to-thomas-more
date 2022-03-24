@@ -23,6 +23,14 @@ or
 
 > Glaise, A., & Clérice, T. (2021). Du IIème siècle à Thomas More, un corpus gold de latin lemmatisé et annoté en morpho-syntaxe (Version 0.0.1) [Data set]. https://doi.org/10.5281/zenodo.1234
 
+## Data
+
+In raw, you'll find data grouped by phase, in their "raw" form after the export from Pyrrha.
+
+In `lasla-model-ready`, you'll find each text separately, preprocessed in order to be valid with current Pie-Extended LASLA models.
+
+In `lasla-model-ready.tsv`, you'll find all the content of `lasla-model-ready` in a single file.
+
 ## Total
 
 There are 57123 tokens registered in this corpus.
