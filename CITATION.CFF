@@ -9,7 +9,7 @@ authors:
   orcid: "https://orcid.org/0000-0003-1852-9204"
 title: "Du IIème siècle à Thomas More, un corpus gold de latin lemmatisé et annoté en morpho-syntaxe"
 version: 1.0.2
-#doi: 10.5281/zenodo.1234
+doi: 10.5281/zenodo.6383162
 date-released: 2021-12-09
 type: data
 url: "https://github.com/chartes/latin-2nd-century-to-thomas-more"
