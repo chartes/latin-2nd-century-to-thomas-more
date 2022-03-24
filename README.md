@@ -2,6 +2,10 @@
 
 This corpus has been designed by Anthony Glaise and Thibault Clérice for testing the robustness of our MSD and lemmatization models trained on classical Latin data. It was built in three phases, which you can find in raw. 
 
+Anthony Glaise corrected and checked all annotations, chose most of the texts with guidelines by Thibault Clérice. Thibault Clérice provided data engineering, technical support, annotations guidelines and data analysis (publication forthcoming). 
+
+All data were annotated by the [Latin Lasla Model](https://github.com/PonteIneptique/latin-lasla-models) (version might vary) and [Pie-Extended](https://github.com/hipster-philology/nlp-pie-taggers). They were corrected on [Pyrrha](https://dh.chartes.psl.eu/pyrrha/) using the École nationale des Chartes' instance.
+
 Cite it with 
 
 ```tex
