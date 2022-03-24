@@ -10,18 +10,18 @@ Cite it with
 
 ```tex
 @misc{Glaise_Du_IIeme_siecle_2021,
-author = {Glaise, Anthony and Clérice, Thibault},
-doi = {10.5281/zenodo.1234},
-month = {12},
-title = {{Du IIème siècle à Thomas More, un corpus gold de latin lemmatisé et annoté en morpho-syntaxe}},
-url = {https://github.com/chartes/latin-2nd-century-to-thomas-more},
-year = {2021}
+  author = {Glaise, Anthony and Clérice, Thibault},
+  doi = {10.5281/zenodo.6383162},
+  month = {12},
+  title = {{Du IIème siècle à Thomas More, un corpus gold de latin lemmatisé et annoté en morpho-syntaxe}},
+  url = {https://github.com/chartes/latin-2nd-century-to-thomas-more},
+  year = {2021}
 }
 ```
 
 or 
 
-> Glaise, A., & Clérice, T. (2021). Du IIème siècle à Thomas More, un corpus gold de latin lemmatisé et annoté en morpho-syntaxe (Version 0.0.1) [Data set]. https://doi.org/10.5281/zenodo.1234
+> Glaise, A., & Clérice, T. (2021). Du IIème siècle à Thomas More, un corpus gold de latin lemmatisé et annoté en morpho-syntaxe (Version 0.0.1) [Data set]. https://doi.org/10.5281/zenodo.6383162
 
 ## Data
 
