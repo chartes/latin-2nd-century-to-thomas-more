@@ -57,22 +57,6 @@ There are 57123 tokens registered in this corpus.
 | ADVint.neg |                  7 |
 
 
-## File Phase-2.tsv
-
-| First Token                                                         | Text title                                             |   Number of tokens |
-|---------------------------------------------------------------------|--------------------------------------------------------|--------------------|
-| [REF:urn:cts:latinLit:stoa0187b.stoa002:1-4]                        | Mamertin, *Panegyricus dicto Juliano imperatori*       |                790 |
-| [REF:urn:cts:latinLit:stoa0287.stoa001:1.20]                        | Végèce, *Epitome de re militari*                       |                637 |
-| [REF:urn:cts:latinLit:stoa0186-stoa001:3.14]                        | Macrobe, *Saturnales*                                  |                858 |
-| [REF:urn:cts:latinLit:phi2331.phi004.perseus-lat1:25-27]            | *Histoire Auguste*, Marc Aurèle                        |                660 |
-| [REF:urn:cts:latinLit:stoa0041a.stoa005:1.18-1.28]                  | Caelius Aurelianus, *Gynaeciorum Sorani*               |                761 |
-| [REF:urn:cts:latinLit:stoa0110.stoa002a:47-63]                      | Donat, *In Bucolicis Vergilii commentarium, praefatio* |                817 |
-| [REF:urn:cts:latinLit:stoa0285c.stoa001]                            | Vacca, *Vita M. Annaei Lucani*                         |                571 |
-| [REF:urn:cts:latinLit:stoa0116c.stoa001:1-2]                        | Euantius, *De comoedia uel de fabula*                  |                892 |
-| [REF:urn:cts:latinLit:stoa0107.stoa001:38-40]                       | Darès de Phrygie, *De excidio Troiae historia*         |                562 |
-| [REF:urn:cts:latinLit:stoa0023.stoa001.perseus-lat2:20.3.1-20.3.12] | Ammien Marcellin, *Res gestae*                         |                881 |
-| [REF:urn:cts:latinLit:stoa0146b.stoa001:5.2]                        | Hégésippe, *Histoires*                                 |                447 |
-
 
 ## File Phase-1.tsv
 
@@ -97,6 +81,23 @@ There are 57123 tokens registered in this corpus.
 | urn:cts:latinLit:stoa0143.stoa001:@.30-2.31              | Grégoire de Tours, *Historia Francorum*        |                685 |
 | urn:cts:latinLit:stoa0261.stoa002:4.3                    | Sidoine Apollinaire, *Lettres*                 |                860 |
 | urn:cts:latinLit:stoa0112.stoa001:1-3                    | Eginhard, *Vie de Charlemagne*                 |                723 |
+
+
+## File Phase-2.tsv
+
+| First Token                                                         | Text title                                             |   Number of tokens |
+|---------------------------------------------------------------------|--------------------------------------------------------|--------------------|
+| [REF:urn:cts:latinLit:stoa0187b.stoa002:1-4]                        | Mamertin, *Panegyricus dicto Juliano imperatori*       |                790 |
+| [REF:urn:cts:latinLit:stoa0287.stoa001:1.20]                        | Végèce, *Epitome de re militari*                       |                637 |
+| [REF:urn:cts:latinLit:stoa0186-stoa001:3.14]                        | Macrobe, *Saturnales*                                  |                858 |
+| [REF:urn:cts:latinLit:phi2331.phi004.perseus-lat1:25-27]            | *Histoire Auguste*, Marc Aurèle                        |                660 |
+| [REF:urn:cts:latinLit:stoa0041a.stoa005:1.18-1.28]                  | Caelius Aurelianus, *Gynaeciorum Sorani*               |                761 |
+| [REF:urn:cts:latinLit:stoa0110.stoa002a:47-63]                      | Donat, *In Bucolicis Vergilii commentarium, praefatio* |                817 |
+| [REF:urn:cts:latinLit:stoa0285c.stoa001]                            | Vacca, *Vita M. Annaei Lucani*                         |                571 |
+| [REF:urn:cts:latinLit:stoa0116c.stoa001:1-2]                        | Euantius, *De comoedia uel de fabula*                  |                892 |
+| [REF:urn:cts:latinLit:stoa0107.stoa001:38-40]                       | Darès de Phrygie, *De excidio Troiae historia*         |                562 |
+| [REF:urn:cts:latinLit:stoa0023.stoa001.perseus-lat2:20.3.1-20.3.12] | Ammien Marcellin, *Res gestae*                         |                881 |
+| [REF:urn:cts:latinLit:stoa0146b.stoa001:5.2]                        | Hégésippe, *Histoires*                                 |                447 |
 
 
 ## File Phase-3.tsv
